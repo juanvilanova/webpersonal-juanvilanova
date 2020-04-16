@@ -58,7 +58,7 @@
 /* SECTION */
 
 .portada-image {
-    background-image: url("portada.jpg");
+    background-image: url("../img/portada.jpg");
     height: 540px;
     background-position: center;
     background-repeat: no-repeat;
@@ -152,7 +152,7 @@
 }
 
 .contact-image {
-    background-image: url("conect.jpg");
+    background-image: url("../img/conect.jpg");
     width: 75%;
     height: 540px;
     background-position: center;
@@ -200,7 +200,7 @@ input {
 
 
 .about-image {
-    background-image: url("aboutme6.jpg");
+    background-image: url("../img/aboutme6.jpg");
     height: 540px;
     background-position: center;
     background-repeat: no-repeat;
@@ -260,7 +260,7 @@ input {
 }
 
 .about-image2 {
-    background-image: url("mosaico1.JPG");
+    background-image: url("../img/mosaico1.JPG");
     height: 540px;
     background-position: center;
     background-repeat: no-repeat;
@@ -270,7 +270,7 @@ input {
 
 
 .about-image3 {
-    background-image: url("mosaico2.JPG");
+    background-image: url("../img/mosaico2.JPG");
     height: 540px;
     background-position: center;
     background-repeat: no-repeat;
